@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #fafafa;
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background: #222;
+    padding: 10px;
+}
+
+nav a {
+    color: #fff;
+    margin-right: 12px;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+nav a:hover {
+    text-decoration: underline;
+}
+
+form {
+    display: inline;
+    float: right;
+}
+
+input[type="submit"] {
+    background: #fff;
+    color: #222;
+    border: none;
+    padding: 6px 12px;
+    border-radius: 3px;
+    cursor: pointer;
+}
+
+header {
+    text-align: center;
+    margin-top: 40px;
+}
+
+h1 {
+    color: #222;
+    font-size: 2em;
+}
