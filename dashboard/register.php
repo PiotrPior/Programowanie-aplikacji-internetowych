@@ -54,7 +54,7 @@ $conn->close();
 <head>
     <meta charset="UTF-8">
     <title>Rejestracja</title>
-    <link rel="stylesheet" href="styl1.css">
+    <link rel="stylesheet" href="./style/styl1.css">
 </head>
 <body>
     <h1>Rejestracja</h1>
